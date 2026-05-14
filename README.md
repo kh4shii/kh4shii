@@ -10,7 +10,7 @@
 ## 📦 Featured Projects
 | Repository | Physics Focus | Status |
 |------------|--------------|--------|
-| [✨ MultiplicityCharmResonanceAnalysis](./MultiplicityCharmResonanceAnalysis) | K*/Ξc multiplicity dependence, RooFit extraction, O2-style architecture | ✅ Interview-ready |
+| [✨ MultiplicityCharmResonanceAnalysis](https://github.com/kh4shii/-MultiplicityCharmResonanceAnalysis) | K*/Ξc multiplicity dependence, RooFit extraction, O2-style architecture | ✅ Interview-ready |
 | [D⁰-Meson-Reconstruction](./D0-Meson-Reconstruction) | Charm hadron invariant mass + azimuthal correlations | 🟡 Learning prototype |
 | [Guo2013 Proximity Potential](./Guo2013model-proximity-potential) | Proton radioactivity, PRC 2024 publication | ✅ Published |
 
