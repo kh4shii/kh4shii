@@ -1,6 +1,6 @@
 # 👋 Khashayar Haghighi Pour
 
-**M.Sc. Nuclear Physics** | Heavy-Ion Physics Enthusiast 
+✨ **M.Sc. Nuclear Physics** | Heavy-Ion Physics Enthusiast ✨
 
 ## 🔬 Research Focus
 - Open charm production & angular correlations in QGP
@@ -10,9 +10,9 @@
 ## 📦 Featured Projects
 | Repository | Physics Focus | Status |
 |------------|--------------|--------|
-| [✨ MultiplicityCharmResonanceAnalysis](https://github.com/kh4shii/-MultiplicityCharmResonanceAnalysis) | K*/Ξc multiplicity dependence, RooFit extraction, O2-style architecture | ✅ Interview-ready |
-| [D⁰-Meson-Reconstruction](./D0-Meson-Reconstruction) | Charm hadron invariant mass + azimuthal correlations | 🟡 Learning prototype |
-| [Guo2013 Proximity Potential](./Guo2013model-proximity-potential) | Proton radioactivity, PRC 2024 publication | ✅ Published |
+| [ MultiplicityCharmResonanceAnalysis](https://github.com/kh4shii/-MultiplicityCharmResonanceAnalysis) | K*/Ξc multiplicity dependence, RooFit extraction, O2-style architecture | ✅ Interview-ready |
+| [D⁰-Meson-Reconstruction](https://github.com/kh4shii/D0-Meson-Reconstruction) | Charm hadron invariant mass + azimuthal correlations | 🟡 Learning prototype |
+| [Guo2013 Proximity Potential](https://github.com/kh4shii/Guo2013model-proximity-potential) | Proton radioactivity, PRC 2024 publication | ✅ Published |
 
 ## 🎯 Current Goal
 Contributing to the **BEACON project** (NCN OPUS 2024/55/B/ST2/01643):  
