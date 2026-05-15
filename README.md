@@ -19,6 +19,11 @@ Contributing to the **BEACON project** (NCN OPUS 2024/55/B/ST2/01643):
 *Baryon Exploration And Charm production Observed via correlations in the ALICE Experiment*  
 → Open charm analysis, angular correlations, D meson reconstruction, O2 framework development
 
+## 🚀 Preparation for ALICE O2 Framework
+- Familiarized with O2 architecture concepts (`AnalysisTask`, `HistogramRegistry`, AO2D tables)
+- Built modular C++/ROOT code structured to ease migration to `o2::framework`
+- Eager to undergo formal O2 training and contribute to collaboration software tasks
+
 ## 📚 Recent Engagement
 - Studied Dr. M. Janik's recent ALICE papers on K*(892)± and Ξc⁺ multiplicity dependence
 - Built self-contained ROOT frameworks replicating event-mixing & multiplicity-binning workflows
